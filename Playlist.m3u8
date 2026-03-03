@@ -1,55 +1,56 @@
 #EXTM3U
-
-#EXTINF:-1,KAN 11 IL
+#EXTINF:0,KAN 11 IL
+#EXTGRP:Израил
 http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2332/index.m3u8
-
-#EXTINF:-1,Channel 12 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2333/index.m3u8
-
-#EXTINF:-1,Channel 13 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2334/index.m3u8
-
-#EXTINF:-1,Channel 9 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2340/index.m3u8
-
-#EXTINF:-1,Channel 20 IL
+#EXTINF:0,Channel 12 IL
+#EXTGRP:Израил
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2329/index.m3u8
+#EXTINF:0,Channel 13 IL
+#EXTGRP:Израил
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2330/index.m3u8
+#EXTINF:0,YES 1 IL
+#EXTGRP:Израил
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2351/index.m3u8
+#EXTINF:0,YES 2 IL
+#EXTGRP:Израил
 http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2350/index.m3u8
-
-#EXTINF:-1,YES 1 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2335/index.m3u8
-
-#EXTINF:-1,YES 2 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2336/index.m3u8
-
-#EXTINF:-1,YES 3 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2337/index.m3u8
-
-#EXTINF:-1,YES 4 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2338/index.m3u8
-
-#EXTINF:-1,YES ACTION IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2345/index.m3u8
-
-#EXTINF:-1,YES COMEDY IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2344/index.m3u8
-
-#EXTINF:-1,YES DRAMA IL
+#EXTINF:0,YES 3 IL
+#EXTGRP:Израил
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2349/index.m3u8
+#EXTINF:0,YES 4 IL
+#EXTGRP:Израил
 http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2348/index.m3u8
-
-#EXTINF:-1,HOT 1 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2341/index.m3u8
-
-#EXTINF:-1,HOT 2 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2342/index.m3u8
-
-#EXTINF:-1,HOT 3 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2343/index.m3u8
-
-#EXTINF:-1,YES YELADIM IL
+#EXTINF:0,Channel 9 IL
+#EXTGRP:Израил
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2374/index.m3u8
+#EXTINF:0,HOME+ IL
+#EXTGRP:Израил
 http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2339/index.m3u8
+#EXTINF:0,EgoTotal IL
+#EXTGRP:Израил
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2376/index.m3u8
+EXTINF:0 tvg-rec="0",FOX NEWS CHANNEL FHD
+#EXTGRP:Спорт
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/19147/index.m3u8
+#EXTINF:0 tvg-rec="0",Classic Music
+#EXTGRP:Музыка
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/14008/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV HD
+#EXTGRP:Музыка
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2130/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV Hits
+#EXTGRP:Музыка
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/153/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV 80s
+#EXTGRP:Музыка
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/724/index.m3u8
+#EXTINF:0 tvg-rec="3",Vostok TV
+#EXTGRP:Музыка
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/1054/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV 90s
+#EXTGRP:Музыка
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/1038/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Авто
+#EXTGRP:Познавательные
+http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/15511/index.m3u8
 
-#EXTINF:-1,i24 News IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2360/index.m3u8
-
-#EXTINF:-1,Arutz 2000 IL
-http://41d429d4.akciatv.ru/iptv/8CKHE9YGDM8U8G/2365/index.m3u8
